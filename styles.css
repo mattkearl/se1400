@@ -1,0 +1,44 @@
+body {
+    font-family: "Verdana";
+    margin:0;
+}
+
+#container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+h1 {
+    text-align: center;
+    background-color: lightcoral;
+    color:blue;
+    text-decoration:underline;
+  
+}
+
+ul {
+ margin:0;
+}
+
+p {
+      line-height: 1.5rem;
+}
+
+li {
+    background-color: lightseagreen;
+}
+
+
+a {
+    background-color: lightpink ;
+}
+
+.heavy {
+    text-decoration: underline; 
+    background-color: yellow;
+}
+
+.red {
+    color: red;
+}

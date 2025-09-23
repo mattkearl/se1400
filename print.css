@@ -1,0 +1,69 @@
+
+body {
+ 
+background: none;
+   
+}
+
+
+
+#container {
+    width: 100%;
+    box-shadow: none;
+}
+
+#mainhero, header,nav,footer{
+   display:none;
+
+}
+
+.image {
+    width:300px;
+    height:auto;
+}
+
+header>h1 {
+     text-align: center;
+    color:lightcyan;
+    background-color: #003058;
+}
+
+p {
+      line-height: 1.25rem;
+}
+
+
+nav ul li {
+    display: inline-block;
+    background-color: #003058;
+}
+    
+nav ul li a {
+    
+    color:#fff;
+    text-decoration: none;
+    padding: 20px;
+    display: block;
+}
+
+nav ul li a:hover {
+    background-color: rgba(0,0,0,0.5);
+  
+}
+
+
+
+
+.left {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.right {
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.clear { clear: both; }
